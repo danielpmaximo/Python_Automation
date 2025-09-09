@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\AppData\Local\Temp\ipykernel_27084\2179677538.py", line 4, in <module>
+    raise Exception('This is an exception.')
+Exception: This is an exception.
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\AppData\Local\Temp\ipykernel_27084\2179677538.py", line 4, in <module>
+    raise Exception('This is an exception.')
+Exception: This is an exception.
